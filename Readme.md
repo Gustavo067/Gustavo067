@@ -30,10 +30,11 @@ So far my skills include:
 </a>
 
 <a href="#" style="text-decoration: none;">
-  <div style="display: inline-flex; align-items: center; background-color: #346541; color: white; padding: 5px 10px; border-radius: 4px; font-family: Arial, sans-serif; font-size: 14px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);">
-    <img src="https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/favicon.ico?alt=media&token=17405a86-9cdd-410c-adaf-a3bf93da8638" alt="Logo" style="width: 20px; height: 20px; border-radius: 3px; margin-right: 8px;">
-    <span>Meu Portfólio</span>
-  </div>
+  <span style="display: inline-flex; align-items: center; background-color: #346541; color: white; padding: 5px 10px; border-radius: 4px; font-family: Arial, sans-serif; font-size: 14px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/favicon.ico?alt=media&token=17405a86-9cdd-410c-adaf-a3bf93da8638" alt="Logo" style="width: 20px; height: 20px; margin-right: 8px;">
+    Meu Portfólio
+  </span>
 </a>
+
 
 
