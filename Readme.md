@@ -22,18 +22,18 @@ So far my skills include:
 </div>
 
 #### Connect with me
-<p> 
+
 <a href="https://linkedin.com/in/gustavo067" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"
     alt="Gustavo067 LinkedIn"
     height="20">
 </a>
 
-<a href="https://gustavodev067.netlify.app/" rel="noopener noreferrer">
- <div style="display: inline-flex; align-items: center; background-color: #346541; color: white; padding: 10px 15px; border-radius: 8px; font-family: Arial, sans-serif; font-size: 16px; box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);">
-  <img src="https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/favicon.ico?alt=media&token=17405a86-9cdd-410c-adaf-a3bf93da8638" alt="Logo" style="width: 32px; height: 32px; border-radius: 50%; margin-right: 10px;">
-  <span>Meu Portfólio</span>
-</div>
+<a href="#" style="text-decoration: none;">
+  <div style="display: inline-flex; align-items: center; background-color: #346541; color: white; padding: 5px 10px; border-radius: 4px; font-family: Arial, sans-serif; font-size: 14px; box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);">
+    <img src="https://firebasestorage.googleapis.com/v0/b/portifolio-42c64.appspot.com/o/favicon.ico?alt=media&token=17405a86-9cdd-410c-adaf-a3bf93da8638" alt="Logo" style="width: 20px; height: 20px; border-radius: 3px; margin-right: 8px;">
+    <span>Meu Portfólio</span>
+  </div>
 </a>
- </p>
+
 
