@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello, my name is Gustavo Medeiros 👋
 
-Hello, my name is Gustavo Medeiros, and I am a software developer with a degree in Computer Science. I have experience in developing modern applications, focusing on front-end technologies like React and React Native. I began my career in 2020, and since then, I have been honing my skills to deliver efficient and innovative solutions.
+I am a software developer with a degree in Computer Science. I have experience in developing modern applications, focusing on front-end technologies like React and React Native. I began my career in 2020, and since then, I have been honing my skills to deliver efficient and innovative solutions.
 
 Throughout my journey, I have worked on challenging projects that involved developing intuitive and functional interfaces, always aiming to meet the needs of end users. I am passionate about technology and continuously stay updated on new tools and practices that can enhance my work.
 
